@@ -1,2 +1,2 @@
-# nikahmadz.github.io
-Personal Playground
+# Nik
+nikahmadz.github.io
