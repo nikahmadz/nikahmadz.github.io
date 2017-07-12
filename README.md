@@ -1,2 +1,1 @@
-# Nik
-Personal Playground
+# Nik's Personal Playground
