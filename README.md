@@ -1,2 +1,2 @@
 # Nik
-nikahmadz.github.io
+[nikahmadz.github.io](https://nikahmadz.github.io)
