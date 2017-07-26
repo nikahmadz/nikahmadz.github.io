@@ -1,1 +1,1 @@
-nikahmadz.github.io/payment/readme.md
+nikahmadz.github.io/payme/readme.md

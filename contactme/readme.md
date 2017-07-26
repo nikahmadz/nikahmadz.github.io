@@ -1,1 +1,1 @@
-nikahmadz.github.io/contact/readme.md
+nikahmadz.github.io/contactme/readme.md
