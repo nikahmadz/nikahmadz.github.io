@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: nikahmadz.github.io
+Token: c9c2003bd068c76e0421b3824859a4048728f6a45bfca3c655fb6e55e8ad71d5
