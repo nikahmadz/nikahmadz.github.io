@@ -6,5 +6,7 @@
 I'm a Software Developer living in Selangor, Malaysia.  
 I help others learn and develop websites.
 
-- [Github](https://github.com/nikahmadz)
-- [Blog](https://nikahmadz.blogspot.com)
+[Github][1] &middot; [Blog][2]
+
+[1]:https://github.com/nikahmadz "Open my Github Profile"
+[2]:https://nikahmadz.blogspot.com "Visit my Blog"
