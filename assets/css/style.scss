@@ -1,1 +1,13 @@
 @import "jekyll-theme-cayman";
+
+/*! (c) Copyright Nik Ahmad : v1.0*/
+@media screen and (min-width: 600px) { /* scrollbar */
+  ::-webkit-scrollbar { background: 0; cursor: default; height: 14px; width: 14px; }
+  ::-webkit-scrollbar-corner { background: 0; }
+  ::-webkit-resizer { background: 0; border: 3px solid #777; border-color: #7770 #7778 #7778 #7770; }
+  ._bright ::-webkit-scrollbar-thumb { box-shadow: 0 0 0 1px #0002 inset, 0 0 0 8px #7775 inset; }
+  ._bright ::-webkit-scrollbar-thumb:hover { box-shadow: 0 0 0 1px #0004 inset, 0 0 0 8px #7777 inset; }
+  ._bright ::-webkit-scrollbar-thumb:active { box-shadow: 0 0 0 1px #0006 inset, 0 0 0 8px #7779 inset; }
+  ._dark ::-webkit-scrollbar-thumb, ::-webkit-scrollbar-thumb { background: #777; background: #7770; border: 4px solid #7770; border-radius: 7px; box-shadow: 0 0 0 1px #000a inset, 0 0 0 8px #7775 inset; }
+  ._dark ::-webkit-scrollbar-thumb:hover, ::-webkit-scrollbar-thumb:hover { box-shadow: 0 0 0 1px #000c inset, 0 0 0 8px #7779 inset; border-width: 3px; }
+  ._dark ::-webkit-scrollbar-thumb:active, ::-webkit-scrollbar-thumb:active { box-shadow: 0 0 0 1px #000e inset, 0 0 0 8px #777c inset; border-width: 4px; } }
