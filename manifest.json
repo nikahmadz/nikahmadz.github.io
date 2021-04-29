@@ -1,7 +1,7 @@
 {
   "short_name": "nikahmadz",
   "name": "Nik Ahmad Z.",
-  "description": "Your personalized booking app",
+  "description": "Nik Ahmad Z. personal website",
   "display": "fullscreen",
   "background_color": "#ffffff",
   "theme_color": "#222222",
@@ -11,7 +11,7 @@
     {
       "short_name": "nikahmadz",
       "name": "Nik Ahmad Z.",
-      "description": "Your personalized booking app",
+      "description": "Nik Ahmad Z. personal website",
       "url": "/?source=pwa",
       "icons": [{
         "src": "/icons/android-chrome-192x192.png",
