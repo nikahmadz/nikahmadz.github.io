@@ -6,6 +6,12 @@
 I'm a Software Developer living in Selangor, Malaysia.  
 I help others learn and develop websites.
 
+---
+
+[Jadual Sifir](https://nikahmadz.github.io/jadual-sifir/)
+
+---
+
 [Github][1] &middot; [Blog][2] &middot; [Discuss][3]
 
 [1]:https://github.com/nikahmadz "Open my Github Profile"
