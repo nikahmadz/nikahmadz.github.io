@@ -12,8 +12,7 @@ I help others learn and develop websites.
 
 ---
 
-[Github][1] &middot; [Blog][2] &middot; [Discuss][3]
+[Github][1] &middot; [Discuss][2]
 
 [1]:https://github.com/nikahmadz "Open my Github Profile"
-[2]:https://nikahmadz.blogspot.com "Visit my Blog"
-[3]:https://github.com/nikahmadz/nikahmadz.github.io/discussions
+[2]:https://github.com/nikahmadz/nikahmadz.github.io/discussions
