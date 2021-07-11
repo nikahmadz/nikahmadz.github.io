@@ -1,7 +1,7 @@
 ![My Profile Pic](https://avatars0.githubusercontent.com/u/7868782?v=4&s=40)
 
 ## How to send payment to [Nik Ahmad Z.][1]
-I accept payment for goods & services that I sell. Use the following channel to send your payment.  
+I accept payment for my goods & services. Use the following channel to send your payment.  
 Please [inform me][2] afterwards. Thank you.
 
 [1]:https://nikahmadz.github.io/
