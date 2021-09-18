@@ -8,7 +8,7 @@ I help others learn and develop websites.
 
 ---
 
-[Jadual Sifir](https://nikahmadz.github.io/jadual-sifir/)
+See: [Jadual Sifir](https://nikahmadz.github.io/jadual-sifir/)
 
 ---
 
