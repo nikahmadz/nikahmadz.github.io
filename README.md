@@ -5,7 +5,7 @@
 ## Hi there
 I'm a Software Developer in Selangor, Malaysia.
 I develop applications, websites and software.
-Feel free to [contact me][2] when you need a help.
+Feel free to [contact me][3] when you need a help.
 
 ---
 
@@ -14,10 +14,12 @@ Recent shares:
 
 ---
 
-[Github][1] &middot;
-[Discuss][2] &middot;
-[Files][3] &middot;
+[Home][1] &middot;
+[Github][2] &middot;
+[Discuss][3] &middot;
+[Files][4] &middot;
 
-[1]:https://github.com/nikahmadz "Open my Github Profile"
-[2]:https://github.com/nikahmadz/nikahmadz.github.io/discussions
-[3]:https://nikahmadz.github.io/files/
+[1]:https://nikahmadz.github.io/ "Home page"
+[2]:https://github.com/nikahmadz "Open my Github Profile"
+[3]:https://github.com/nikahmadz/nikahmadz.github.io/discussions "Go to Discusssion Room"
+[4]:https://nikahmadz.github.io/files/ "View shared files"
