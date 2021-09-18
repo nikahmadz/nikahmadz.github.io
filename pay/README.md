@@ -11,3 +11,5 @@ Please [inform me][2] afterwards. Thank you.
 
 ### Payment options
 - [paypal.me/nikahmad](https://paypal.me/nikahmad)
+
+---
