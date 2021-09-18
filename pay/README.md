@@ -1,3 +1,5 @@
+[nikahmadz.github.io][1] / pay
+
 ![My Profile Pic](https://avatars0.githubusercontent.com/u/7868782?v=4&s=40)
 
 ## How to send payment to [Nik Ahmad Z.][1]
