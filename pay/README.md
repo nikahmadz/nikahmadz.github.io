@@ -7,6 +7,8 @@ Please [inform me][2] afterwards. Thank you.
 [1]:https://nikahmadz.github.io/
 [2]:https://github.com/nikahmadz/nikahmadz.github.io/discussions "Start a new discussion"
 
+---
+
 ### Payment options
 - [paypal.me/nikahmad](https://paypal.me/nikahmad)
 
