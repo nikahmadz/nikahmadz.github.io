@@ -14,6 +14,11 @@ Recent shares:
 
 ---
 
+## Sending payment
+[nikahmadz.github.io/pay](https://nikahmadz.github.io/pay/)
+
+---
+
 [Home][1] &middot;
 [Github][2] &middot;
 [Discuss][3] &middot;
