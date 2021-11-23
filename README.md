@@ -4,7 +4,7 @@
 
 ## Hi there
 I'm a Software Developer in Selangor, Malaysia.
-I develop applications, websites and software.
+I build apps, websites and softwares.
 Feel free to [contact me][3] when you need a help.
 
 ---
