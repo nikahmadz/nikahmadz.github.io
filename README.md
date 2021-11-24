@@ -14,7 +14,7 @@ Feel free to [contact me][3] when you need help.
 
 ***
 
-# Links
+## Links
 [Files](https://nikahmadz.github.io/files)
 &middot; [Jadual Sifir](https://nikahmadz.github.io/jadual-sifir)
 &middot; [page-01](https://nikahmadz.github.io/page-01)
