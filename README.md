@@ -7,24 +7,20 @@ I'm a Software Developer in Selangor, Malaysia.
 I build apps, websites and softwares.
 Feel free to [contact me][3] when you need a help.
 
----
+***
 
-Recent shares:
-[Jadual Sifir](https://nikahmadz.github.io/jadual-sifir/)
+Recent show:
+[Jadual Sifir](/jadual-sifir)
 
----
+***
 
 ## Sending payment
-[nikahmadz.github.io/pay](https://nikahmadz.github.io/pay/)
+[nikahmadz.github.io/pay](/pay)
 
----
+***
 
-[Home][1] &middot;
-[Github][2] &middot;
-[Discuss][3] &middot;
-[Files][4] &middot;
+[Home][1] &middot; [Github][2] &middot; [Discuss][3]
 
-[1]:https://nikahmadz.github.io/ "Home page"
-[2]:https://github.com/nikahmadz "Open my Github Profile"
+[1]:/
+[2]:https://github.com/nikahmadz/page-101
 [3]:https://github.com/nikahmadz/nikahmadz.github.io/discussions "Go to Discusssion Room"
-[4]:https://nikahmadz.github.io/files/ "View shared files"
