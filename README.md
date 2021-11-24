@@ -9,14 +9,17 @@ Feel free to [contact me][3] when you need a help.
 
 ***
 
-# Links
-&middot; [Files](https://nikahmadz.github.io/files)
-&middot; [Jadual Sifir](https://nikahmadz.github.io/jadual-sifir)
+## Sending payment
+[nikahmadz.github.io/pay](https://nikahmadz.github.io/pay)
 
 ***
 
-## Sending payment
-[nikahmadz.github.io/pay](https://nikahmadz.github.io/pay)
+# Links
+&middot; [Files](https://nikahmadz.github.io/files)
+&middot; [Jadual Sifir](https://nikahmadz.github.io/jadual-sifir)
+&middot; [page-01](https://nikahmadz.github.io/page-01)
+&middot; [page-101](https://nikahmadz.github.io/page-101)
+&middot; [page-02](https://nikahmadz.github.io/page-02)
 
 ***
 
