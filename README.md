@@ -10,8 +10,8 @@ Feel free to [contact me][3] when you need a help.
 ***
 
 # Links
-[Files](https://nikahmadz.github.io/files)
-[Jadual Sifir](https://nikahmadz.github.io/jadual-sifir)
+&middot; [Files](https://nikahmadz.github.io/files)
+&middot; [Jadual Sifir](https://nikahmadz.github.io/jadual-sifir)
 
 ***
 
