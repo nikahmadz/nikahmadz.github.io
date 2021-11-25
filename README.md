@@ -16,10 +16,11 @@ Feel free to [contact me][3] when you need help.
 
 ## Links
 [Files](https://nikahmadz.github.io/files)
-&middot; [Jadual Sifir](https://nikahmadz.github.io/jadual-sifir)
 &middot; [page-01](https://nikahmadz.github.io/page-01)
 &middot; [page-02](https://nikahmadz.github.io/page-02)
 &middot; [page-101](https://nikahmadz.github.io/page-101)
+
+&middot; [Jadual Sifir](https://nikahmadz.github.io/jadual-sifir)
 
 ***
 
