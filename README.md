@@ -20,7 +20,7 @@ Feel free to [contact me][3] when you need help.
 &middot; [page-02](https://nikahmadz.github.io/page-02)
 &middot; [page-101](https://nikahmadz.github.io/page-101)
 
-&middot; [Jadual Sifir](https://nikahmadz.github.io/jadual-sifir)
+[Jadual Sifir](https://nikahmadz.github.io/jadual-sifir)
 
 ***
 
