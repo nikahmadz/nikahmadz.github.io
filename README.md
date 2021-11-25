@@ -19,7 +19,6 @@ Feel free to [contact me][3] when you need help.
 &middot; [page-01](https://nikahmadz.github.io/page-01)
 &middot; [page-02](https://nikahmadz.github.io/page-02)
 &middot; [page-101](https://nikahmadz.github.io/page-101)
-
 [Jadual Sifir](https://nikahmadz.github.io/jadual-sifir)
 
 ***
