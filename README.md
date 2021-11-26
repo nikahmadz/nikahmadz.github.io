@@ -18,7 +18,7 @@ I would be glad to receive tips and payment for products and services I have giv
 ## Links
 [Files](https://nikahmadz.github.io/files)
 
-&middot; [page-01](https://nikahmadz.github.io/page-01)
+[page-01](https://nikahmadz.github.io/page-01)
 &middot; [page-101](https://nikahmadz.github.io/page-101)
 
 [Jadual Sifir](https://nikahmadz.github.io/jadual-sifir)
