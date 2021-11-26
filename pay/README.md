@@ -3,7 +3,8 @@
 ![My Profile Pic](https://avatars0.githubusercontent.com/u/7868782?v=4&s=40)
 
 ## Sending payment to [Nik Ahmad Z.][1]
-I accept payment for my goods & services. Use the following channel to send your payment.  
+I would be glad to receive tips and payment for products and services I have given.
+Use the following channel to send your payment.  
 Please [inform me][3] afterwards. Thank you.
 
 ***
