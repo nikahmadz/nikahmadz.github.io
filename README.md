@@ -4,13 +4,14 @@
 
 ## Hi there
 I'm a Software Developer in Selangor, Malaysia.
-I build apps, websites and softwares.
-Feel free to [contact me][3] when you need help.
+I code apps, websites and softwares.
+If you need any help, free free to [discuss it here][3].
 
 ***
 
-## Sending payment
-[nikahmadz.github.io/pay](https://nikahmadz.github.io/pay)
+## Sending me payment
+I would be glad to receive tips and payment for products and services I have given.  
+[nikahmadz.github.io/pay](https://nikahmadz.github.io/pay) listed payment options available.
 
 ***
 
