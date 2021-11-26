@@ -1,17 +1,17 @@
 {
   "short_name": "nikahmadz",
-  "name": "Nik Ahmad Z.",
-  "description": "Nik Ahmad Z. personal website",
-  "display": "fullscreen",
-  "background_color": "#ffffff",
+  "name": "nikahmad.github.io",
+  "description": "Senior Application Developer, Malaysia",
+  "display": "standalone",
+  "background_color": "#222222",
   "theme_color": "#222222",
   "scope": "/",
   "start_url": "/",
   "shortcuts": [
     {
       "short_name": "nikahmadz",
-      "name": "Nik Ahmad Z.",
-      "description": "Nik Ahmad Z. personal website",
+      "name": "nikahmad.github.io",
+      "description": "Senior Application Developer, Malaysia",
       "url": "/?source=pwa",
       "icons": [{
         "src": "/icons/android-chrome-192x192.png",
@@ -31,13 +31,6 @@
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
-    }
-  ],
-  "screenshots": [
-    {
-      "src": "/screenshots/screenshot1.png",
-      "type": "image/png",
-      "sizes": "540x720"
     }
   ]
 }
