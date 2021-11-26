@@ -11,7 +11,7 @@ If you need any help, free free to [discuss it here][3].
 
 ## Sending me payment
 I would be glad to receive tips and payment for products and services I have given.  
-[nikahmadz.github.io/pay](https://nikahmadz.github.io/pay) listed payment options available.
+[nikahmadz.github.io/pay](https://nikahmadz.github.io/pay) listed available payment options.
 
 ***
 
