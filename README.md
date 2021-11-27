@@ -19,6 +19,7 @@ I would be glad to receive tips and payment for products and services I have giv
 
 [Files](https://nikahmadz.github.io/files)
 &middot; [Sandbox](https://nikahmadz.github.io/sandbox)
+&middot; [Base](https://nikahmadz.github.io/base)
 
 [page-01](https://nikahmadz.github.io/page-01)
 &middot; [page-101](https://nikahmadz.github.io/page-101)
