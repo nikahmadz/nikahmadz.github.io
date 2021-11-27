@@ -27,6 +27,10 @@ I would be glad to receive tips and payment for products and services I have giv
 
 ***
 
+README.md
+
+***
+
 [Home][1] &middot; [Github][2] &middot; [Discuss][3]
 
 [1]:https://nikahmadz.github.io
