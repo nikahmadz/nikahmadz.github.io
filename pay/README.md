@@ -1,4 +1,4 @@
-[nikahmadz.github.io][1] / pay
+[nikahmadz.github.io][1] / [pay](https://nikahmadz.github.io/pay)
 
 ***
 
