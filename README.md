@@ -8,10 +8,10 @@ I code apps, websites and softwares.
 
 ***
 
-## Usefull links
-
-[Discuss something][3] &middot;
-[Sending payment](https://nikahmadz.github.io/pay "See payment options")
+[Home][1] &middot;
+[Github][2] &middot;
+[Discuss][3] &middot;
+[Payment](https://nikahmadz.github.io/pay "See payment options")
 
 ***
 
@@ -25,10 +25,6 @@ I code apps, websites and softwares.
 [Jadual Sifir](https://nikahmadz.github.io/jadual-sifir)
 
 ***
-
-[Home][1] &middot;
-[Github][2] &middot;
-[Discuss][3]
 
 [1]:https://nikahmadz.github.io
 [2]:https://github.com/nikahmadz
