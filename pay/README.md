@@ -1,4 +1,6 @@
-[nikahmadz.github.io][1] / pay
+[nikahmadz.github.io][1] / [pay](https://nikahmadz.github.io/pay)
+
+***
 
 ![My Profile Pic](https://avatars0.githubusercontent.com/u/7868782?v=4&s=40)
 
@@ -18,5 +20,5 @@ Please [inform me][3] afterwards. Thank you.
 [Home][1] &middot; [Github][2] &middot; [Discuss][3]
 
 [1]:https://nikahmadz.github.io
-[2]:https://github.com/nikahmadz/nikahmadz.github.io
+[2]:https://github.com/nikahmadz
 [3]:https://github.com/nikahmadz/nikahmadz.github.io/discussions "Go to Discusssion Room"
