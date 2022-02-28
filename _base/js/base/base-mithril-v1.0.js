@@ -1,0 +1,1 @@
+(()=>{"use strict";(()=>{if(!window.m)throw"Mithril library is missing";const i=window,n=i.base,o=i.m,s=n.nodeId,t=n.cantFind,r=o.redraw.sync;n.mithril={sync:r,node:i=>s(i)||t(i),clone:i=>o.trust((s(i)||t(i)).innerHTML),fa:(i="",n="fas",s="")=>o(`_ico.-fa${s}`,o(`i.${n} fa-${i}`)),goto:(i="/")=>n.goto("#!"+i)}})()})();
