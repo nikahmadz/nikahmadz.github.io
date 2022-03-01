@@ -6,9 +6,7 @@
 
 ***
 
-I would be glad to receive tips and payment for products and services I have given.
-Use the following channel to send your payment.
-Please [inform me][3] afterwards. Thank you.
+I accept payment for products and services I have given. Please send your payment through these services, then [inform me][3] afterwards. Thank you.
 
 ***
 
