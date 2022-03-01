@@ -22,8 +22,8 @@ If you are interested in working together on a project, feel free to [discuss it
 ***
 
 [Home][1] &middot;
-[Discuss][3] &middot;
-[Github][2]
+[Github][2] &middot;
+[Discuss][3]
 
 [1]:https://nikahmadz.github.io
 [2]:https://github.com/nikahmadz
