@@ -1,8 +1,6 @@
-## Nik Ahmad Z.
-
 ![My Profile Pic](https://avatars0.githubusercontent.com/u/7868782?v=4&s=160)
 
-## Hi there
+## Hi there, I am Nik Ahmad Z.
 
 I love building apps, websites and softwares. I started working as a programmer back in 2005 and has been coding ever since. Currently, I'm focusing on the development of some **Web & Mobile Apps**.  
 
