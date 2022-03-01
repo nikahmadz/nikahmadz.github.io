@@ -6,7 +6,8 @@
 
 ***
 
-I accept payment for products and services I have given. Please send your payment through these services, then [inform me][3] afterwards. Thank you.
+I accept payment for products and services I have given.  
+Please send your payment through these services, then [inform me][3] afterwards. Thank you.
 
 ***
 
