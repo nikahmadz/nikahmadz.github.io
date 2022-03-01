@@ -8,21 +8,20 @@ I love building apps, websites and softwares. I started working as a programmer 
 
 ***
 
-[Home][1] &middot;
-[Github][2] &middot;
-[Discuss][3] &middot;
+[Base](https://nikahmadz.github.io/base) &middot;
+[Files](https://nikahmadz.github.io/files) &middot;
 [Payment](https://nikahmadz.github.io/pay "See payment options")
+  
+[Sandbox](https://nikahmadz.github.io/sandbox) &middot;
+[Sifir](https://nikahmadz.github.io/jadual-sifir) &middot;
+[Page-01](https://nikahmadz.github.io/page-01) &middot;
+[Page-101](https://nikahmadz.github.io/page-101)
 
 ***
 
-[Files](https://nikahmadz.github.io/files) &middot;
-[Sandbox](https://nikahmadz.github.io/sandbox) &middot;
-[Base](https://nikahmadz.github.io/base)
-
-[page-01](https://nikahmadz.github.io/page-01) &middot;
-[page-101](https://nikahmadz.github.io/page-101)
-
-[Jadual Sifir](https://nikahmadz.github.io/jadual-sifir)
+[Home][1] &middot;
+[Discuss][3] &middot;
+[Github][2] &middot;
 
 ***
 
