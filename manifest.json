@@ -1,6 +1,6 @@
 {
-  "short_name": "nikahmadz",
-  "name": "nikahmad.github.io",
+  "short_name": "Nik Ahmad",
+  "name": "nikahmadz.github.io",
   "description": "Senior Application Developer, Malaysia",
   "display": "standalone",
   "background_color": "#222222",
@@ -9,8 +9,8 @@
   "start_url": "/",
   "shortcuts": [
     {
-      "short_name": "nikahmadz",
-      "name": "nikahmad.github.io",
+      "short_name": "Nik Ahmad",
+      "name": "nikahmadz.github.io",
       "description": "Senior Application Developer, Malaysia",
       "url": "/?source=pwa",
       "icons": [{
