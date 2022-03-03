@@ -7,7 +7,7 @@ body { background-color:unset;color:unset; }
 
 .markdown-body {
   .highlight pre, pre { background-color:unset; }
-  hr { background-color:grey; }
+  hr { background-color:grey;opacity:.3; }
   h1, h2, h3, h4, h5, h6 { border-bottom-color:grey; }
-  blockquote { border-left-color:grey; }
+  blockquote { border-left-color:grey;border-left-color:rgb(128 128 128 / 50%); }
 }
