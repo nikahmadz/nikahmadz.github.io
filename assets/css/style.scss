@@ -1,0 +1,12 @@
+---
+---
+@import "{{ site.theme }}";
+
+body { background-color:unset;color:unset; }
+
+.markdown-body {
+  .highlight pre, pre { background-color:unset;border:1px solid grey; }
+  hr { background-color:grey; }
+  h1, h2, h3, h4, h5, h6 { border-bottom-color:grey; }
+  blockquote { border-left-color:grey; }
+}
