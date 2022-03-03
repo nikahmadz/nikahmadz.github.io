@@ -1,7 +1,7 @@
-# Markdown example
+## Markdown example
 
 Example text
 
 ***
 
-[Back](/base)
+[Back](/)
