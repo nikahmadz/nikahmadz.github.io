@@ -15,7 +15,7 @@ If you are interested in working together on a project, feel free to [discuss it
 [Payment](https://nikahmadz.github.io/pay "See payment options")
 
 [Files](https://nikahmadz.github.io/files) &middot;
-[01](https://nikahmadz.github.io/page-01) &middot;
+[Prime](https://nikahmadz.github.io/prime) &middot;
 [101](https://nikahmadz.github.io/page-101)
 
 [Sandbox](https://nikahmadz.github.io/sandbox) &middot;
