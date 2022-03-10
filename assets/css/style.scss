@@ -1,13 +1,30 @@
 ---
 ---
-@import "{{ site.theme }}";
+@import "jekyll-theme-primer";
 
-body { background-color:unset;color:unset; }
+/*! (c) Copyright Nik Ahmad : base-scroll-v1.0*/@media screen and (min-width: 600px){._dark ::-webkit-scrollbar-thumb{box-shadow:0 0 0 2px #2f2f2f inset}._dark ::-webkit-scrollbar-thumb:hover{box-shadow:0 0 0 7px #505050 inset}._bright ::-webkit-scrollbar-thumb{box-shadow:0 0 0 2px #b6b6b6 inset}._bright ::-webkit-scrollbar-thumb:hover{box-shadow:0 0 0 7px #959595 inset}::-webkit-scrollbar{background:0;cursor:default;height:14px;width:14px}::-webkit-scrollbar-corner{background:0}::-webkit-resizer{background:0;border:3px solid rgba(128,128,128,0);border-right-color:rgba(128,128,128,0.5);border-bottom-color:rgba(128,128,128,0.5)}::-webkit-scrollbar-thumb{background:0;border:5px solid rgba(128,128,128,0);border-radius:7px;box-shadow:0 0 0 2px #b6b6b6 inset}::-webkit-scrollbar-thumb:hover{border-width:4px}::-webkit-scrollbar-thumb:active{border-width:5px}}
+
+body { background-color:initial;color:initial; }
+a { color:#4660e1; }
 
 .markdown-body {
-  .highlight { background-color:unset; }
-  .highlight pre, pre { background-color:unset;border:1px solid grey; }
+  img { box-shadow: 1px 1px 3px black; }
+  dt { color:#6a737d }
+  table {
+    th, td { border-color:grey; }
+    tr { background-color:initial;background-color:rgba(grey,10%); }
+    thead tr,
+    tr:nth-child(2n) { background-color:initial;background-color:rgba(grey,20%); }
+  }
+  .highlight { background-color:lightgrey;color:darkslategrey;border-radius:4px; }
+  .highlight pre, pre { background-color:initial;border:1px solid grey;border-color:rgba(grey,50%); }
   hr { background-color:grey;opacity:.3; }
-  h1, h2, h3, h4, h5, h6 { border-bottom-color:grey; }
+  h1, h2, h3, h4, h5, h6 { border-bottom-color:grey;border-bottom-color:rgba(grey,30%); }
   blockquote { border-left-color:grey;border-left-color:rgba(grey,50%); }
+  code, tt { background-color:initial;background-color:rgba(grey,30%); }
 }
+
+.task-list-item-checkbox { margin:4px; }
+a.footnote { margin:0 2px; }
+
+.footnotes { font-size:.87em;border-top:2px solid grey;border-top-color:rgba(grey,30%);margin:24px 0; }
