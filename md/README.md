@@ -1,4 +1,4 @@
-## Markdown Projects
+## Markdown projects
 
 [01](https://nikahmadz.github.io/page-01) &middot;
 [101](https://nikahmadz.github.io/page-101)
