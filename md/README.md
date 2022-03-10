@@ -1,7 +1,6 @@
 ## Markdown projects
 
-[Prime](https://nikahmadz.github.io/prime) &middot;
-[101](https://nikahmadz.github.io/page-101)
+[Prime](https://nikahmadz.github.io/prime)
 
 ***
 
