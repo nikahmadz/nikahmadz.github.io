@@ -1,6 +1,11 @@
 ---
 ---
-@import "jekyll-theme-primer";
+@import "primer-support/index.scss";
+@import "primer-base/index.scss";
+@import "primer-utilities/index.scss";
+@import "primer-layout/index.scss";
+@import "primer-markdown/index.scss";
+@import "rouge-base16-dark";
 
 /*! (c) Copyright Nik Ahmad : base-scroll-v1.0*/@media screen and (min-width: 600px){._dark ::-webkit-scrollbar-thumb{box-shadow:0 0 0 2px #2f2f2f inset}._dark ::-webkit-scrollbar-thumb:hover{box-shadow:0 0 0 7px #505050 inset}._bright ::-webkit-scrollbar-thumb{box-shadow:0 0 0 2px #b6b6b6 inset}._bright ::-webkit-scrollbar-thumb:hover{box-shadow:0 0 0 7px #959595 inset}::-webkit-scrollbar{background:0;cursor:default;height:14px;width:14px}::-webkit-scrollbar-corner{background:0}::-webkit-resizer{background:0;border:3px solid rgba(128,128,128,0);border-right-color:rgba(128,128,128,0.5);border-bottom-color:rgba(128,128,128,0.5)}::-webkit-scrollbar-thumb{background:0;border:5px solid rgba(128,128,128,0);border-radius:7px;box-shadow:0 0 0 2px #b6b6b6 inset}::-webkit-scrollbar-thumb:hover{border-width:4px}::-webkit-scrollbar-thumb:active{border-width:5px}}
 
@@ -16,7 +21,7 @@ a { color:#4660e1; }
     thead tr,
     tr:nth-child(2n) { background-color:initial;background-color:rgba(grey,20%); }
   }
-  .highlight { background-color:lightgrey;color:darkslategrey;border-radius:4px; }
+  .highlight { background-color:#202020;color:#5f9ea0;border-radius:4px; }
   .highlight pre, pre { background-color:initial;border:1px solid grey;border-color:rgba(grey,50%); }
   hr { background-color:grey;opacity:.3; }
   h1, h2, h3, h4, h5, h6 { border-bottom-color:grey;border-bottom-color:rgba(grey,30%); }
