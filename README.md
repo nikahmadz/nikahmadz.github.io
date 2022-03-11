@@ -1,5 +1,5 @@
 ## Hi there, I am Nik Ahmad Z.
-> Senior Application Developer, Malaysia
+> Senior Application Developer in Malaysia
 
 ![My Profile Pic](https://avatars0.githubusercontent.com/u/7868782?v=4&s=160)
 
@@ -15,12 +15,12 @@ If you are interested in working together on a project, feel free to [discuss it
 [Payment](https://nikahmadz.github.io/pay "See payment options")
 
 [Files](https://nikahmadz.github.io/files) &middot;
-[Prime](https://nikahmadz.github.io/prime) &middot;
-[101](https://nikahmadz.github.io/page-101)
+[Markdown](https://nikahmadz.github.io/md) &middot;
+[Prime](https://nikahmadz.github.io/prime)
 
 [Sandbox](https://nikahmadz.github.io/sandbox) &middot;
-[Sifir](https://nikahmadz.github.io/jadual-sifir) &middot;
-[Markdown](https://nikahmadz.github.io/md)
+[Sifir](https://nikahmadz.github.io/jadual-sifir)
+
 
 ***
 
