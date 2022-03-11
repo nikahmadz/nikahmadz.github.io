@@ -1,10 +1,3 @@
----
-layout: page
-title: 'Markdown projects'
-page:
-  title: 'Page: Markdown projects'
----
-
 [nikahmadz.github.io][1] / [md][4]
 
 ***
