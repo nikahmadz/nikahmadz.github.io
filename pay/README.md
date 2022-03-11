@@ -1,12 +1,11 @@
 [nikahmadz.github.io][1] / [pay](https://nikahmadz.github.io/pay)
 
-## Sending payment to [Nik Ahmad Z.][1]
+## Sending payment to [Nik Ahmad Z][1]
 
 ![My Profile Pic](https://avatars0.githubusercontent.com/u/7868782?v=4&s=40)
 
 ***
 
-I accept payment for products and services I have given.  
 Please send your payment through these services, then [inform me][3] afterwards.  
 Thank you.
 
