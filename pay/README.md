@@ -19,4 +19,4 @@ Please send your payment through these services, then [inform me][3] afterwards.
 
 [1]:https://nikahmadz.github.io
 [2]:https://github.com/nikahmadz
-[3]:https://github.com/nikahmadz/nikahmadz.github.io/discussions "Go to Discusssion Room"
+[3]:https://github.com/nikahmadz/nikahmadz.github.io/discussions "Go to Discussion Room"
