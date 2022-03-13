@@ -1,4 +1,4 @@
-[nikahmadz.github.io][1] / [md][4]
+[nikahmadz.github.io][1] / [md](https://nikahmadz.github.io/md)
 
 ***
 
@@ -15,4 +15,3 @@
 [1]:https://nikahmadz.github.io
 [2]:https://github.com/nikahmadz
 [3]:https://github.com/nikahmadz/nikahmadz.github.io/discussions "Go to Discusssion Room"
-[4]:https://nikahmadz.github.io/md

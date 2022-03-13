@@ -7,11 +7,7 @@
 ***
 
 Please send your payment through these services, then [inform me][3] afterwards.  
-Thank you.
 
-***
-
-### Payment options
 - [toyyibpay.com/nikahmad](https://toyyibpay.com/nikahmad)
 - [paypal.me/nikahmad](https://paypal.me/nikahmad)
 

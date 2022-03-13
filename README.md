@@ -1,11 +1,13 @@
-## Hi there, I am Nik Ahmad Z.
+## Hi there, I am Nik Ahmad Z
 > Senior Application Developer in Malaysia
 
 ![My Profile Pic](https://avatars0.githubusercontent.com/u/7868782?v=4&s=160)
 
 ***
 
-I love building apps, websites and softwares. I started working as a programmer back in 2005 and has been coding ever since. Currently, I'm focusing on the development of some **Web & Mobile Apps**.  
+I love building apps, websites and softwares.
+I started working as a programmer back in 2005 and has been coding ever since.
+Currently, I'm focusing on the development of some **Web & Mobile Apps**.  
 
 If you are interested in working together on a project, feel free to [discuss it with me][3].
 
