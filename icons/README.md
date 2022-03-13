@@ -1,2 +1,1 @@
-> FavIcons for nikahmadz.github.io
-
+> favicons for nikahmadz.github.io
