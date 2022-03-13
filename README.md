@@ -29,4 +29,4 @@ If you are interested in working together on a project, feel free to [discuss it
 
 [1]:https://nikahmadz.github.io
 [2]:https://github.com/nikahmadz
-[3]:https://github.com/nikahmadz/nikahmadz.github.io/discussions "Go to Discusssion Room"
+[3]:https://github.com/nikahmadz/nikahmadz.github.io/discussions "Go to Discussion Room"
