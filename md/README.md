@@ -2,7 +2,7 @@
 
 ***
 
-# Markdown projects
+## Markdown projects
 
 [Prime](https://nikahmadz.github.io/prime)
 
