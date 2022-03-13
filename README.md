@@ -17,18 +17,14 @@ If you are interested in working together on a project, feel free to [discuss it
 [Payment](https://nikahmadz.github.io/pay "See payment options")
 
 [Files](https://nikahmadz.github.io/files) &middot;
-[Markdown](https://nikahmadz.github.io/md) &middot;
 [Prime](https://nikahmadz.github.io/prime)
 
-[Sandbox](https://nikahmadz.github.io/sandbox) &middot;
-[Sifir](https://nikahmadz.github.io/jadual-sifir)
+[Sandbox](https://nikahmadz.github.io/sandbox)
 
 
 ***
 
-[Home][1] &middot;
-[Github][2] &middot;
-[Discuss][3]
+[Home][1] &middot; [Github][2] &middot; [Discuss][3]
 
 [1]:https://nikahmadz.github.io
 [2]:https://github.com/nikahmadz
