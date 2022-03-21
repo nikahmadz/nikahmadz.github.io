@@ -1,5 +1,5 @@
 # GitHub Pages Configuration Variables
-theme: nikahmadz/prime@v0.1.0-beta
+remote_theme: nikahmadz/prime@v0.1.0-beta
 
 # The title of your site
 title: Nik Ahmad Z (v.0.1.0-beta)
