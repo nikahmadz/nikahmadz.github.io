@@ -1,4 +1,6 @@
 # GitHub Pages Configuration Variables
+plugins:
+- jekyll-remote-theme
 remote_theme: nikahmadz/prime@v0.1.0-beta
 
 # The title of your site
