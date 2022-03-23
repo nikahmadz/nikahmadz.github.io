@@ -1,7 +1,6 @@
 Build <span class="text-red">beautiful website</span> in minutes  
 using
-<mark>Markdown</mark>
-<mark>and HTML</mark>
+<mark>Markdown&nbsp; &nbsp;and&nbsp; &nbsp;HTML</mark>
 {: .hero }
 
 ***
@@ -149,8 +148,8 @@ Long, single-line `code blocks` should not wrap. They should horizontally scroll
 <dd>Godzilla</dd>
 <dt>Born</dt>
 <dd>1970</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
+<dt>Origin</dt>
+<dd>{{ site.theme }} : {{ site.remote_theme }}</dd>
 </dl>
 
 ## Table
