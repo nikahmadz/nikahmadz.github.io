@@ -1,10 +1,8 @@
 # GitHub Pages Configuration Variables
-plugins:
-- jekyll-remote-theme
 remote_theme: nikahmadz/prime.dev@v0.1.1-beta
 
 # The title of your site
-title: Nik Ahmad Z (v.0.1.1-beta)
+title: Nik Ahmad Z
 
 # A short description of your site's purpose
 # description:
