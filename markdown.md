@@ -35,7 +35,7 @@ You can standardize paragraphs with <code>indent</code> and <code class="nowrap"
 Include image with floats and margins.
 {: .big-first.text-justify }
 
-<span class="text-grey">Following texts are meaningless, just to fill up some texts for the rest of this demo. In such cases a burn above turn a bit by bit a burn more or less tuned more or less a different story a different story. Had burn tuned this happened was the color of television a pleasure, more or less from various people.</span>
+<span class="text-grey">Following texts are meaningless fillers to fill up some space for the rest of this demo. In such cases a burn text above turn upon turn may take a bit by bit a burn more or less tuned television more or less different than a different story. Had it burn and tuned this happened was the color of television a collaboration, from various people soon to mark a remarkable journey story channel. This happened to people various bit by bit.</span>
 {: .indent.text-justify }
 
 <span class="text-grey">Each time and the story channel a different story all a different story, to a pleasure the color of television. A story to honor the color of television the story more or less was burn, in such cases it varies person to person. This happened to the color of television as pleasure.</span>
@@ -148,8 +148,6 @@ Long, single-line `code blocks` should not wrap. They should horizontally scroll
 <dd>Godzilla</dd>
 <dt>Born</dt>
 <dd>1970</dd>
-<dt>Origin</dt>
-<dd>{{ site.theme }} : {{ site.remote_theme }}</dd>
 </dl>
 
 ## Table
@@ -224,7 +222,7 @@ You can also use word as reference [^note].
 
 ***
 
-<div class="text-center text-grey"> Finished </div>
+<div class="text-center text-grey"> {{ site.theme  }} : {{ site.remote_theme }} : Ends : : </div>
 
 ***
 
