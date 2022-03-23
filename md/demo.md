@@ -1,53 +1,54 @@
-Build <span class="text-red">beautiful website</span> in minutes
-<br />with <mark>Markdown and HTML</mark>
+Build <span class="text-red">beautiful website</span> in minutes  
+using
+<mark>Markdown</mark>
+<mark>and HTML</mark>
 {: .hero }
 
 ***
 
-This repository template helps you build websites on **Github**.
+This template helps you build websites on **Github**.
 It has everything pre-configured to get you started right away.
 You can write your content in Markdown and HTML.
 Maintain the content of your website with any code editor you like.
 When you commit your code, **Github Pages** will build your website from the content of your files.
+{: .big-first }
 
-**[Clone this repository][clone]** &middot;
-**[How to use it][repo]** &middot;
+**[How to use it][how]** &middot;
 **[View source][source]**
 
-[clone]:  https://github.com/nikahmadz/prime/generate "Clone this repository to your Github"
-[repo]:   https://github.com/nikahmadz/prime/#how-to-use-it "Find out how you can use this template to build websites"
-[source]: https://github.com/nikahmadz/prime/blob/main/demo.md?plain=1 "View source code of this page"
+[how]:   https://github.com/nikahmadz/prime/#how-to-use-it "Find out how you can use this template to build websites"
+[source]: https://github.com/nikahmadz/prime/blob/main/demo.md?plain=1 "View source code of this demo page"
 
 ***
 
 ![Large image](https://picsum.photos/id/1039/1024/368){: .width-full.centered }
 
-> Images are from [picsum.photos](https://picsum.photos/)
+> Images for this demo came from [picsum.photos](https://picsum.photos/)
 
 ***
 
 ## Better control
 
-![Small image](https://picsum.photos/id/299/400/300){: .centered.float-sm-right.m-sm-6 }
+![Small image](https://picsum.photos/id/299/400/300){: .centered.float-sm-right.m-sm-4 }
 
-Use <code>big-first</code> to enlarge first letter of a paragraph.
-Standardize paragraphs with <code>indent</code> and <code>text-justify</code>.
-Include image with floats.
-<span class="text-grey">In such cases a burn above turn a bit by bit a burn more or less tuned more or less a different story a different story. Had burn tuned this happened was the color of television a pleasure, more or less from various people.</span>
-{: .big-first.indent.text-justify }
+Use <code>big-first</code> to enlarge the first letter of a paragraph.
+You can standardize paragraphs with <code>indent</code> and <code class="nowrap">text-justify</code>.
+Include image with floats and margins.
+{: .big-first.text-justify }
+
+<span class="text-grey">Following texts are meaningless, just to fill up some texts for the rest of this demo. In such cases a burn above turn a bit by bit a burn more or less tuned more or less a different story a different story. Had burn tuned this happened was the color of television a pleasure, more or less from various people.</span>
+{: .indent.text-justify }
 
 <span class="text-grey">Each time and the story channel a different story all a different story, to a pleasure the color of television. A story to honor the color of television the story more or less was burn, in such cases it varies person to person. This happened to the color of television as pleasure.</span>
 {: .indent.text-justify }
 
 ***
 
-## Text styles
+## Text styles &amp; color
 
 Text can be written in **bold**, _italic_, ***both***, ~~strikethrough~~,
 <abbr title="Abbreviation">abbr</abbr>, `code`
 or <mark>mark</mark>.
-
-## Text color
 
 <b class="text-primary">primary</b>
 <b class="text-secondary">secondary</b>
@@ -63,7 +64,7 @@ or <mark>mark</mark>.
 
 ## Text blocks
 
-> Write a bunch of text in a blockquote.
+> You can write a bunch of text in a blockquote.
 >
 > > A blockquote can be nested too.
 
@@ -103,25 +104,6 @@ end
 Long, single-line `code blocks` should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
 ```
 
-## Links
-
-You can create links to
-[a post](./first-post "First Post"),
-[a page](./page-example "Page Example"),
-or make a list of all the posts you have:
-
-{% if site.posts.size > 0 %}
-<ul>
-  {% for post in site.posts %}
-    <li><a href=".{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
-{% endif %}
-
-But if you link to a missing page, you'll see [an error](./404 "Page not found").
-
-***
-
 # Header 1
 ## Header 2
 ### Header 3
@@ -154,8 +136,9 @@ But if you link to a missing page, you'll see [an error](./404 "Page not found")
 ###### Tasks
 
 - [x] Completed task.
-  - subtask one
-  - subtask two
+  - task item level 2
+    - task item level 3
+  - task item level 2
 - [ ] Pending task.
 - [ ] \(Escape) tasks that begins with a parenthesis.
 
@@ -203,13 +186,34 @@ But if you link to a missing page, you'll see [an error](./404 "Page not found")
 
 ***
 
-## Foot notes
+## Links
+
+{% if site.posts.size > 0 %}
+
+You can create links to
+[a post](./first-post "First Post"),
+[a page](./page-example "Page Example"),
+or make a list of all the posts you have:
+
+<ul>
+  {% for post in site.posts %}
+    <li><a href=".{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
+
+{% endif %}
+
+If you link to a missing page, you'll see [an error](./404 "Page not found").
+
+***
+
+## Footnotes
 
 A footnote[^1] creates a list of references at the bottom of a page.
 
 Normally you would use number as reference [^2].
 
-You can also use words as footnote key[^note].
+You can also use word as reference [^note].
 
 [^1]: A footnote reference.
 
@@ -227,6 +231,6 @@ You can also use words as footnote key[^note].
 
 [Home][1] &middot; [Github][2] &middot; [Discuss][3]
 
-[1]:https://nikahmadz.github.io
-[2]:https://github.com/nikahmadz
+[1]:https://nikahmadz.github.io "Go to nikahmadz.github.io"
+[2]:https://github.com/nikahmadz "Follow me on Github"
 [3]:https://github.com/nikahmadz/nikahmadz.github.io/discussions "Go to Discussion Room"
