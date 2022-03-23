@@ -222,7 +222,7 @@ You can also use word as reference [^note].
 
 ***
 
-<div class="text-center text-grey"> {{ site.theme  }} : {{ site.remote_theme }} : Ends : : </div>
+<div class="text-center text-grey"> {{ site.theme  }} : {{ site.remote_theme }} </div>
 
 ***
 
