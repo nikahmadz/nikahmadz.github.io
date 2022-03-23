@@ -1,3 +1,7 @@
+---
+permalink: "prime.demo"
+---
+
 <div class="hero">
 Build <span class="text-red">beautiful website</span> in minutes
 <br />with <mark>Markdown and HTML</mark>
