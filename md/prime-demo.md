@@ -1,5 +1,5 @@
 ---
-permalink: "prime.demo"
+permalink: "prime-demo"
 ---
 
 <div class="hero">
