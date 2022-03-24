@@ -6,8 +6,6 @@
 
 ## Sending payment to [Nik Ahmad Z][1]
 
-***
-
 Please use these services to send your payment. Kindly [inform me][3] afterwards.
 
 - [toyyibpay.com/nikahmad](https://toyyibpay.com/nikahmad)
