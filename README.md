@@ -11,6 +11,9 @@ If you have awesome ideas to share or interested in working together, feel free 
 
 🌱 **Please consider [supporting projects][pay] you like**, so I can continue making it better.
 
+[pay]: https://nikahmadz.github.io/#!pay "See payment options"
+[recent-projects]: https://nikahmadz.github.io/recent-projects "Recent projects"
+
 ***
 
 [Sponsor](https://nikahmadz.github.io/#!pay "See payment options") &middot;
@@ -25,6 +28,3 @@ If you have awesome ideas to share or interested in working together, feel free 
 [1]:https://nikahmadz.github.io "Go to nikahmadz.github.io"
 [2]:https://github.com/nikahmadz "Follow me on Github"
 [3]:https://github.com/nikahmadz/nikahmadz.github.io/discussions "Go to Discussion Room"
-
-[pay]: https://nikahmadz.github.io/#!pay "See payment options"
-[recent-projects]: https://nikahmadz.github.io/recent-projects "Recent projects"
