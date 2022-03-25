@@ -2,10 +2,7 @@
 
 ***
 
-## Markdown projects
-
-[Prime](https://nikahmadz.github.io/prime)
-[(dev)](https://nikahmadz.github.io/prime.dev)
+[recent-projects](https://nikahmadz.github.io/recent-projects)
 
 ***
 
