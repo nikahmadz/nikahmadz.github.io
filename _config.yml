@@ -1,4 +1,6 @@
 # GitHub Pages Configuration Variables
+
+# The theme of your site
 remote_theme: nikahmadz/prime@v0.1
 
 # The title of your site
