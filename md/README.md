@@ -2,7 +2,7 @@
 
 ***
 
-[recent-projects](https://nikahmadz.github.io/recent-projects)
+[Recent projects](https://nikahmadz.github.io/recent-projects)
 
 ***
 
