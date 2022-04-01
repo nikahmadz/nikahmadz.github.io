@@ -1,7 +1,7 @@
 # GitHub Pages Configuration Variables
 
 # The theme of your site
-remote_theme: nikahmadz/pages@v0.1.11
+remote_theme: nikahmadz/pages
 
 # The title of your site
 title: Nik Ahmad Z
