@@ -5,7 +5,7 @@
 
 ![My Profile Pic](https://avatars0.githubusercontent.com/u/7868782?v=4&s=160)
 
-I love building stuff ❤️ for everyone's benefit.  
+❤️ I love building stuff for everyone's benefit.  
 Currently, I'm focusing on the development of some **[Web & Mobile Apps][recent-projects]**.  
 If you have awesome ideas to share or interested in working together, feel free to [discuss it with me][3].
 
