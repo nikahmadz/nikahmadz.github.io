@@ -1,10 +1,10 @@
 # GitHub Pages Configuration Variables
 
-# The theme of your site
-remote_theme: nikahmadz/pages
+remote_theme: nikahmadz/pages # The theme of your site
 
-# The title of your site
-title: Nik Ahmad Z
-
-# A short description of your site's purpose
+title: Nik Ahmad Z # The title of your site
 description: Senior Application Developer in Malaysia
+favicon: favicon.ico
+# manifest: manifest.json
+# color_scheme: 'light dark'
+# theme_color: '#202020'
