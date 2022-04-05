@@ -7,12 +7,9 @@
 
 ❤️ I love building stuff for everyone's benefit.  
 Currently, I'm focusing on the development of some **[Web & Mobile Apps][recent-projects]**.  
-If you have awesome ideas to share or interested in working together, feel free to [discuss it with me][3].
+If you have awesome ideas to share or interested in working together, feel free to [discuss it with me][discuss].
 
 🌱 **Please consider [supporting projects][pay] you like**, so I can continue making it better.
-
-[pay]: https://nikahmadz.github.io/#!pay "See payment options"
-[recent-projects]: https://nikahmadz.github.io/recent-projects "Recent projects"
 
 ***
 
@@ -23,8 +20,14 @@ If you have awesome ideas to share or interested in working together, feel free 
 
 ***
 
-[Home][1] &middot; [Github][2] &middot; [Discuss][3]
+[Home][nikahmadz]
+&middot; [Follow me][github]
+&middot; [Sponsor me][pay]
+&middot; [Discuss][discuss]
 
-[1]:https://nikahmadz.github.io "Go to nikahmadz.github.io"
-[2]:https://github.com/nikahmadz "Follow me on Github"
-[3]:https://github.com/nikahmadz/nikahmadz.github.io/discussions "Go to Discussion Room"
+[nikahmadz]: https://nikahmadz.github.io "Go to nikahmadz.github.io"
+[github]:    https://github.com/nikahmadz "Follow me on Github"
+[discuss]:   https://github.com/nikahmadz/nikahmadz.github.io/discussions "Lets discuss something"
+[wiki]:      https://github.com/nikahmadz/nikahmadz.github.io/wiki "You have found my little wiki!"
+[pay]:       https://nikahmadz.github.io/#!pay "See payment options"
+[recent-projects]: https://nikahmadz.github.io/recent-projects "Recent projects"

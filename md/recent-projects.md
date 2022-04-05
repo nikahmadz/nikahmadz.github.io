@@ -17,4 +17,4 @@ title: "Projects"
 
 {: style="margin-top:4rem" }
 
-{% include footer-links.html %}
+{% include footer-links.md %}
