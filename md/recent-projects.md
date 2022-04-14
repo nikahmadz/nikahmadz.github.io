@@ -5,8 +5,10 @@ title: "Projects"
 
 ## Recent projects
 
-[Pages](https://nikahmadz.github.io/pages)
-[Base](https://nikahmadz.github.io/base)
+[Dark-Switch](https://nikahmadz.github.io/dark-switch) &middot;
+[Central](https://nikahmadz.github.io/central) &middot;
+[Pages](https://nikahmadz.github.io/pages) &middot;
+[Base](https://nikahmadz.github.io/base) &middot;
 [(bg)](https://nikahmadz.github.io/base/test/background)
 
 {: style="margin-top:4rem" }
