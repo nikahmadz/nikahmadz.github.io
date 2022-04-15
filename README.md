@@ -13,8 +13,7 @@ If you have awesome ideas to share or interested in working together, feel free 
 
 ***
 
-**
-[Visit my website][nikahmadz]
+**[Visit my website][nikahmadz]
 &middot; [Follow me][github]
 &middot; [Sponsor me][pay]
 &middot; [Discuss][discuss]**
