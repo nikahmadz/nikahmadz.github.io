@@ -7,7 +7,7 @@
 
 ❤️ I love building stuff for everyone to use.  
 Currently, I'm focusing on the development of some **[Web & Mobile Apps][recent-projects]**.  
-If you have awesome ideas to share or interested in working together, feel free to [discuss it with me][discuss].
+If you have awesome ideas to share or interested in working together, feel free to **[discuss it with me][discuss]**.
 
 🌱 **Please consider [supporting projects][pay] you like**, so I can continue making it better.
 
