@@ -1,6 +1,6 @@
 ***
 
-### Hi there, I'm Nik 👋
+## Hi there, I'm Nik 👋
 > I am a Senior Application Developer in Malaysia
 
 ![My Profile Pic](https://avatars0.githubusercontent.com/u/7868782?v=4&s=160)
